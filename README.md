@@ -62,12 +62,6 @@ Natural Language Processing (NLP), Transformers, RAG, HuggingFace
 
 ---
 
-## GitHub Statistics
-
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvrsuthar1978\&show_icons=true)
-
----
-
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/dhruv-suthar-29912b345
